@@ -1,5 +1,20 @@
 body {
     background-image: url(background.png);
-    background-size: cover;
+    display: flex;
+    position: relative;
+    height: 100vh;
+    margin: 0;
 
+}
+
+.dynamic-island {
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.11);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(7.5px);
+    width: 722px;
+    height: 111px;
+    position: absolute;
+    left: calc(50% - (722px / 2));
+    top: 50px;
 }

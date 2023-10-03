@@ -7,6 +7,7 @@
     <title>Surge</title>
 </head>
 <body>
-    
+    <div class="dynamic-island">
+    </div>
 </body>
 </html>
