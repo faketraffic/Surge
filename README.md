@@ -1,17 +1,12 @@
-# Surge
-Social media in development
-
-# Devs
-Peter and Tharmsy
-
-# Designer 
-Dexid media
-
-# External devs
-kaii
-
-# Features
-Dyamic island (menu)
-
-# TODO
-base
+# Surge.
+***
+## What is Surge?:
+Surge is a social media platform. It is sort of like twitter. It can support text,images and video currently however theres is plans to add support for a lot more file types.
+## Where can i find Surge?:
+Surge will be on the domain https://surgeme.xyz
+## Who are the developers?:
+Owner / CEO / Full-stack - Peter
+Front-end - Tharmsy
+Marketing - Dexter (https://greetmarketing.com) / Tharmsy (https://tharmsy.xyz) / Peter
+***
+Thanks for helping build Surge.
