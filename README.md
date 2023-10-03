@@ -7,11 +7,11 @@ Peter and Tharmsy
 # Designer 
 Dexid media
 
-#External devs
+# External devs
 kaii
 
-#Features
+# Features
 Dyamic island (menu)
 
-#TODO
+# TODO
 base
