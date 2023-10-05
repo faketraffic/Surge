@@ -11,3 +11,10 @@ Owner / CEO / Full-stack - Peter
 Full-stack - Tharmsy
 ***
 Thanks for helping build Surge.
+
+# Images
+![image](https://github.com/TharmsyXD/Surge.github.io/assets/133595791/5571af27-ff6c-414d-a76d-094ef7bbbcb7)
+Dynamic island that is in early beta stage
+
+![image](https://github.com/TharmsyXD/Surge.github.io/assets/133595791/cf75f511-69c1-4e9e-b114-f83167f6732d)
+Login page (mid beta)
