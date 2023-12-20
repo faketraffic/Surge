@@ -1,9 +1,19 @@
+# this is an very old version Btw
+# this is an very old version Btw
+# this is an very old version Btw
+# this is an very old version Btw
+# this is an very old version Btw
+
+
+
+
+
 # Surge.
 ***
 ## What is Surge?:
 Surge is a Messaging platform. It is sort of like twitter. It can support text,images and video currently however theres is plans to add support for a lot more file types.
 # FAQ
-is surge skidded?. YES
+is surge skidded?.
 
 Why is Surge Open Source? its not sussopde to be but i have decided to cus lack of hosting rn and have no confidence in this no more cus of peter draining it but i have done alot work and still will
 
